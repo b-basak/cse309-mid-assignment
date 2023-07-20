@@ -1,0 +1,167 @@
+body{
+    margin: 0px;
+    background-color: rgb(10, 25, 47) ;
+}
+section{
+    margin-bottom: 200px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: monospace;
+    letter-spacing: 2px;
+    color: rgb(163, 158, 177);
+}
+.nav-link{
+    color: rgb(174, 169, 188);
+}
+a{
+   text-decoration: none;
+   color: rgb(203, 219, 232); 
+}
+.nav-link:hover{
+    color: aqua;
+}
+.li1{
+    border: 1px solid;
+    padding: 7px;
+    border-radius: 4px;
+    color: aqua;
+}
+span{
+    color: aqua;
+}
+img{
+    height: 100px;
+    margin-left: 10px;
+}
+
+h3{
+    color: aqua;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(203, 219, 232);
+    font-size: 60px;
+   
+}
+h1.h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(179, 196, 210);
+    font-size: 60px;
+    
+}
+.d1{
+    width: 420px;
+}
+p{
+    color: rgb(179, 196, 210);
+    font-size: 20px;
+}
+
+div.d3{
+    display: inline;
+    border: 2px aqua solid;
+    padding: 13px;
+    border-radius: 3px;
+    font-size: larger;  
+}
+.div3{
+    margin-left: 135px;
+}
+.h3{
+    color: rgb(211, 214, 217);
+    font-size: 40px;
+    line-height: 120px;
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+}
+.d4{
+    width: 550px;
+}
+.d5{
+    padding: 10px;
+    margin-right: 100px;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    height: 350px;
+    width: 300px;
+}
+
+
+.img2{
+    height: 200px;
+    width: 170px;
+
+}
+
+.h34{
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    line-height: 77px;
+    
+
+}
+.h24{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(179, 196, 210);
+    font-size: 60px;
+    line-height: 75px;
+    
+}
+.div7{
+    display: inline;
+    text-align: center;
+    color: rgb(78, 83, 88);
+    
+}
+.mail{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+    
+}
+#a{
+    border: 2px solid aqua;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(211, 214, 217);
+    line-height: 120px;
+    font-size: larger;
+}
+.card-img-top{
+    height: 300px !important;
+    width: 96% !important;
+    margin-top: 10px;
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.06);
+    backdrop-filter: blur(10px);
+}
+#project .col-sm-6{
+    display: flex;
+    justify-content: center;
+
+}
+.card-title{
+    color: rgb(109, 120, 130);
+}
+
+
+
+
